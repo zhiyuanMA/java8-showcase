@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Administrator on 2017/2/7.
+ * Created by zhiyuan on 2017/2/7.
  */
 public class GreetingServiceTest {
 

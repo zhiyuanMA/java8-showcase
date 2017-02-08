@@ -1,7 +1,7 @@
 package showcase.defaultmethods;
 
 /**
- * Created by Administrator on 2017/2/6.
+ * Created by zhiyuan on 2017/2/6.
  */
 public class CombGreetingService implements GreetingService, AnotherGreetingService {
     /**

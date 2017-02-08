@@ -19,7 +19,7 @@ import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.not;
 
 /**
- * Created by Administrator on 2017/2/8.
+ * Created by zhiyuan on 2017/2/8.
  */
 public class CollectingAndReducingTest extends StreamingTest {
     private List<Person> receivers = TestData.listOfReceivers();

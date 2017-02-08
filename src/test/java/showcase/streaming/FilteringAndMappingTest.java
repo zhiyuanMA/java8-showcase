@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.containsInAnyOrder;
 import static org.junit.Assert.assertThat;
 
 /**
- * Created by Administrator on 2017/2/8.
+ * Created by zhiyuan on 2017/2/8.
  */
 public class FilteringAndMappingTest extends StreamingTest {
     @Test

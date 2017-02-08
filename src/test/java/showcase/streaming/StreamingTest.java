@@ -7,7 +7,7 @@ import showcase.TestData;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/2/8.
+ * Created by zhiyuan on 2017/2/8.
  */
 public abstract class StreamingTest {
     List<Person> persons = TestData.listOfPersons();
