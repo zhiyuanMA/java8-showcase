@@ -1,6 +1,7 @@
 package showcase;
 
 import java.math.BigDecimal;
+import java.util.Arrays;
 
 /**
  * Created by zhiyuan on 2017/1/21.
@@ -10,6 +11,9 @@ public class Item {
     private final int quantity;
     private final BigDecimal unitPrice;
 
+    public Item(String name, BigDecimal unitPrice) {
+        this(name, 0, unitPrice);
+    }
 
     public Item(String name, int quantity, BigDecimal unitPrice) {
         this.name = name;
